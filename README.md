@@ -45,3 +45,13 @@
 <a href="https://www.instagram.com/dev_jjiny" target="_blank">
     <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
+<br/><br/>
+
+# 📊 Stat
+<!-- <a href="https://stats.hyo.dev/stats/jjinnhub"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=jjinnhub" width="600" /></a>  ![Leetcode Stats](https://leetcard.jacoblin.cool/khj05592002?ext=contest&width=500&theme=nord) -->
+<div align="center">
+  <a href="https://stats.hyo.dev/stats/jjinnhub">
+    <img src="https://stats.hyo.dev/api/github-stats-advanced?login=jjinnhub" width="600" />
+  </a>
+  <img src="https://leetcard.jacoblin.cool/khj05592002?ext=contest&width=500&theme=nord" width="600" />
+</div>
