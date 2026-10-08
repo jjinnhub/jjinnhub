@@ -42,6 +42,6 @@
 <a href="https://khj05592002.tistory.com/" target="_blank">
     <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/>
 </a>
-<a href="www.instagram.com/dev_jjiny" target="_blank">
+<a href="https://www.instagram.com/dev_jjiny" target="_blank">
     <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
