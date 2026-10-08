@@ -13,6 +13,7 @@
  📧 &emsp; 이메일 : [khj05592002@naver.com](mailto:khj05592002@naver.com)<br/><br/>
  💬 &emsp; 기술 블로그 : [jjinnhub's Blog](https://jjinhub.github.io)
 </p>
+<br/><br/>
 
 # 💻 Skills
 ## Language
@@ -32,3 +33,15 @@
 
 ## OS
 ![My Skills](https://skillicons.dev/icons?i=windows,linux&perline=10)  ![My Skills](https://skills.syvixor.com/api/icons?i=ubuntu&perline=10)
+<br/><br/>
+
+# ✏️ Blog
+<a href="https://jjinhub.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://khj05592002.tistory.com/" target="_blank">
+    <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/>
+</a>
+<a href="www.instagram.com/dev_jjiny" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
