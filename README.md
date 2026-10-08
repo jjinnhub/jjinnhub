@@ -49,7 +49,7 @@
 
 # 📊 Stat
 <!-- <a href="https://stats.hyo.dev/stats/jjinnhub"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=jjinnhub" width="600" /></a>  ![Leetcode Stats](https://leetcard.jacoblin.cool/khj05592002?ext=contest&width=500&theme=nord) -->
-<div align="center">
+<div align="left">
   <a href="https://stats.hyo.dev/stats/jjinnhub">
     <img src="https://stats.hyo.dev/api/github-stats-advanced?login=jjinnhub" width="600" />
   </a>
